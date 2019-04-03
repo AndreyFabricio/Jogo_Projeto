@@ -1,0 +1,5 @@
+- Versão do Unity: 2018.3.5.f1 Personal
+
+- Bugs do Unity Afetando o Jogo: 
+
+- Bugs Conhecidos:

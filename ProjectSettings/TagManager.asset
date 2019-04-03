@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - terreno
+  - objeto
+  - personagem
+  - Jogador
+  - Collision
+  - Obstacle
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - CameraLayer
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: terreno
+    uniqueID: 98444413
+    locked: 0
+  - name: objetoFundo
+    uniqueID: 4160697587
+    locked: 0
+  - name: jogador
+    uniqueID: 1880127103
+    locked: 0
+  - name: objetoFrente
+    uniqueID: 3322388461
+    locked: 0
